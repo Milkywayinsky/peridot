@@ -1,6 +1,7 @@
 # peridot
 # peridot
-![загрузка (38)](https://github.com/user-attachments/assets/30fac2e2-1ea4-4166-951c-afc9f4f00f70)
+
+![oemge](https://github.com/user-attachments/assets/815c21a5-dae3-4e82-859b-cb49f82aa0c5)
 
 # peridot
 # peridot
